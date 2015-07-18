@@ -10,3 +10,4 @@
   angular
     .module('thinkster.routes', ['ngRoute']);
 })();
+// https://github.com/tawanda/thinkster.git
